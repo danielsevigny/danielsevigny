@@ -2,7 +2,7 @@
 
 ##  Web Developer | Technology Enthusiast
 
-Hello! I'm Daniel, a web developer with a keen interest in modern web technologies. My training has equipped me with a solid grasp of both front-end and back-end development.
+Hello! I'm Daniel, a bilingual web developer from Montréal with a keen interest in modern web technologies. My training has equipped me with a solid grasp of both front-end and back-end development.
 
 ###  What I work with :computer:
 
