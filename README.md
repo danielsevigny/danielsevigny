@@ -1,16 +1,19 @@
-### Hi there 👋
+# Daniel Sevigny
 
-<!--
-**danielsevigny/danielsevigny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer | Technology Enthusiast
 
-Here are some ideas to get you started:
+Hello! I'm Daniel, a web developer with a keen interest in modern web technologies. My training has equipped me with a solid grasp of both front-end and back-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Languages**: Java, C#, PHP, JavaScript
+- **Front-End**: HTML, CSS, AJAX
+- **Back-End**: Node.js, Express.js, ASP.NET, Razor, Blazor
+- **Frameworks**: Spring, Laravel
+- **Data Handling**: SQL, Mongoose
+- **APIs**: RESTful services, JSON, XML
+
+I'm passionate about coding, problem-solving, and deploying functional and aesthetic digital solutions. If you need a developer who can translate complex web concepts into cutting-edge applications, I'm your guy.
+
+📫 Reach out to me at: [danielsevigny62@gmail.com](mailto:danielsevigny62@gmail.com)
+
