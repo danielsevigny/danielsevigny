@@ -15,6 +15,6 @@ Hello! I'm Daniel, a bilingual web developer from Montréal with a keen interest
 
 I'm passionate about coding, problem-solving, and deploying functional and aesthetic digital solutions. If you need a developer who can translate complex web concepts into cutting-edge applications, I'm your guy.
 
-:e-mail: Reach out to me at: [danielsevigny62@gmail.com](mailto:danielsevigny62@gmail.com)  
-:information_source: My LinkedIn : www.linkedin.com/in/daniel-sevigny-26759226b
+:e-mail:[danielsevigny62@gmail.com](mailto:danielsevigny62@gmail.com)  
+:information_source: www.linkedin.com/in/daniel-sevigny-26759226b
 
