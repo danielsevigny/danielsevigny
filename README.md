@@ -9,7 +9,7 @@ Bonjour ! Je suis Daniel, un développeur web bilingue de Montréal avec un vif 
 ###  What I work with :computer:
 
 - **Languages**: : Java, C#, PHP, JavaScript
-- **Front-End**: HTML, CSS, AJAX
+- **Front-End**: Bootstrap,HTML, CSS, AJAX
 - **Back-End**: Node.js, Express.js, ASP.NET, Razor, Blazor
 - **Frameworks**: Spring, Laravel
 - **Data Handling**: SQL, Mongoose
