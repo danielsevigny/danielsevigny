@@ -1,4 +1,4 @@
-# Daniel Sevigny :surfer:
+# Daniel Sevigny 💻
 
 ##  Web Developer | Technology Enthusiast
 
@@ -6,7 +6,7 @@ Hello! I'm Daniel, a bilingual web developer from Montréal with a keen interest
 
 Bonjour ! Je suis Daniel, un développeur web bilingue de Montréal avec un vif intérêt pour les technologies web modernes. Ma formation m'a doté d'une solide compréhension du développement front-end et back-end.
 
-###  What I work with :computer:
+###  What I work with 🖱️:
 
 - **Languages**: : Java, C#, PHP, JavaScript
 - **Front-End**: Bootstrap, HTML, CSS, AJAX
